@@ -1,0 +1,25 @@
+<svg viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 40h820v240H40zm0 80h820M40 180h820M40 230h820M260 40v240M460 40v240M680 40v240" stroke="#000" stroke-width="1.5" fill="none"/>
+  <path stroke="#000" stroke-width="1.5" d="m40 40 220 80"/>
+  <g font-size="16">
+    <text x="140" y="70">超声波检查结果</text>
+    <text x="75" y="105">组别</text>
+  </g>
+  <g font-size="18" text-anchor="middle">
+    <text x="150" y="157">患该疾病</text>
+    <text x="150" y="212">未患该疾病</text>
+    <text x="150" y="262">合计</text>
+    <text x="360" y="90" font-size="19">正常</text>
+    <text x="360" y="157">20</text>
+    <text x="360" y="212">780</text>
+    <text x="360" y="262">800</text>
+    <text x="570" y="90" font-size="19">不正常</text>
+    <text x="570" y="157">180</text>
+    <text x="570" y="212">20</text>
+    <text x="570" y="262">200</text>
+    <text x="770" y="90" font-size="19">合计</text>
+    <text x="770" y="157">200</text>
+    <text x="770" y="212">800</text>
+    <text x="770" y="262">1000</text>
+  </g>
+</svg>

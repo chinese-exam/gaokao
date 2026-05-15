@@ -1,0 +1,22 @@
+<svg viewBox="0 0 760 110" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 15h720v80H20zm0 40h720M200 15v80m180-80v80m180-80v80" stroke="#000" stroke-width="1.5" fill="none"/>
+  <g font-family="Times New Roman, serif" text-anchor="middle" font-size="21">
+    <text x="110" y="43">
+      <tspan>P(</tspan>
+      <tspan font-style="italic">χ</tspan>
+      <tspan dy="-6" font-size="14">2</tspan>
+      <tspan dy="6">≥</tspan>
+      <tspan font-style="italic">k</tspan>
+      <tspan>)</tspan>
+    </text>
+    <text x="110" y="81" font-style="italic">k</text>
+  </g>
+  <g font-family="Times New Roman, serif" font-size="22" text-anchor="middle">
+    <text x="290" y="43">0.005</text>
+    <text x="470" y="43">0.010</text>
+    <text x="650" y="43">0.001</text>
+    <text x="290" y="81">3.841</text>
+    <text x="470" y="81">6.635</text>
+    <text x="650" y="81">10.828</text>
+  </g>
+</svg>

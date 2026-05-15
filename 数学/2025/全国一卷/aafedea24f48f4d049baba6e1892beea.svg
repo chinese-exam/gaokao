@@ -1,0 +1,49 @@
+<svg viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
+      <path d="M0 1.5 10 5 0 8.5z"/>
+    </marker>
+  </defs>
+  <path d="M20 20h520v200H20zm0 40h520M20 100h520M20 140h520M20 180h520M190 20v200M390 20v200" stroke="#000" stroke-width="1.5" fill="none"/>
+  <g font-size="16" text-anchor="middle">
+    <text x="105" y="46">等级</text>
+    <text x="290" y="46">风速大小 m/s</text>
+    <text x="465" y="46">名称</text>
+    <text x="105" y="86">2</text>
+    <text x="290" y="86">1.1~3.3</text>
+    <text x="465" y="86">轻风</text>
+    <text x="105" y="126">3</text>
+    <text x="290" y="126">3.4~5.4</text>
+    <text x="465" y="126">微风</text>
+    <text x="105" y="166">4</text>
+    <text x="290" y="166">5.5~7.9</text>
+    <text x="465" y="166">和风</text>
+    <text x="105" y="206">5</text>
+    <text x="290" y="206">8.0~10.1</text>
+    <text x="465" y="206">劲风</text>
+  </g>
+  <path d="M50 0V-150m50 150V-150m50 150V-150M0 -50h150m-150 -50h150M0 -150h150" stroke="#666" stroke-width=".8" stroke-dasharray="4,4" fill="none" transform="translate(660 220)"/>
+  <g stroke="#000" stroke-width="1.5" fill="none" marker-end="url(#a)" transform="translate(660 220)">
+    <path d="M0 0h220"/>
+    <path d="M0 0v-210"/>
+  </g>
+  <g font-size="18">
+    <text x="-15" y="15" font-style="italic" transform="translate(660 220)">0</text>
+    <text x="225" y="15" font-style="italic" transform="translate(660 220)">x</text>
+    <text x="-20" y="-200" font-style="italic" transform="translate(660 220)">y</text>
+    <text x="50" y="20" text-anchor="middle" transform="translate(660 220)">1</text>
+    <text x="100" y="20" text-anchor="middle" transform="translate(660 220)">2</text>
+    <text x="150" y="20" text-anchor="middle" transform="translate(660 220)">3</text>
+    <text x="-15" y="-45" text-anchor="end" transform="translate(660 220)">1</text>
+    <text x="-15" y="-95" text-anchor="end" transform="translate(660 220)">2</text>
+    <text x="-15" y="-145" text-anchor="end" transform="translate(660 220)">3</text>
+  </g>
+  <g stroke="#000" stroke-width="1.8" fill="none" marker-end="url(#a)" transform="translate(660 220)">
+    <path d="m100 0 50-150"/>
+    <path d="M150-150 0-100"/>
+  </g>
+  <g font-size="13">
+    <text x="115" y="-15" transform="translate(660 220)">船速</text>
+    <text x="5" y="-130" transform="translate(660 220)">视风风速</text>
+  </g>
+</svg>
