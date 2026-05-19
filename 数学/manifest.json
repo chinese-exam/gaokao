@@ -1,0 +1,12 @@
+{
+  "id": "gaokao-math",
+  "name": "高考数学",
+  "description": "中国高考数学历年真题及模拟题库",
+  "type": "fixed",
+  "totalScore": 150,
+  "totalDuration": 120,
+  "passingScore": 90,
+  "papers": {
+    "2025年全国一卷": "/2025/%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%B7/index.json"
+  }
+}
