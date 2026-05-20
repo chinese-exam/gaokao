@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+  <defs>
+    <style>
+      .label{font-size:20px;font-style:italic;fill:#1a1a1a}
+    </style>
+  </defs>
+  <path d="M120 330h100m-100 0 100-90m0 0h200m-200 90 100-90m0 0h100M350 50l-30 190m30-190 70 190" style="stroke:#1a1a1a;fill:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:1.5;stroke-dasharray:4,4"/>
+  <path d="M220 330h300m-100-90 100 90m-300 0 50-210m0 0 80-70m-80 70 250 210M350 50l170 280" style="stroke:#1a1a1a;fill:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:2"/>
+  <text x="95" y="340" class="label">A</text>
+  <text x="200" y="230" class="label">D</text>
+  <text x="205" y="355" class="label">E</text>
+  <text x="325" y="260" class="label">F</text>
+  <text x="430" y="235" class="label">C</text>
+  <text x="530" y="340" class="label">B</text>
+  <text x="240" y="115" class="label">A&apos;</text>
+  <text x="355" y="45" class="label">D&apos;</text>
+</svg>

@@ -1,8 +1,9 @@
 {
-  "$schema": "https://chinese-exam.github.io/schema.json",
+  "$schema": "https://chinese-exam.github.io/schemas/paper.json",
   "name": "2025年普通高等学校招生全国统一考试（新1卷 数学）",
   "year": 2025,
   "month": 6,
+  "type": "fixed",
   "totalScore": 150,
   "totalDuration": 120,
   "totalQuestions": 19,
@@ -15,7 +16,10 @@
       "questions": [
         {
           "type": "single_choice",
-          "stem": "(1+5i)i 的虚部为",
+          "stem": [
+            "(1+5i)i 的虚部为",
+            { "type": "blank" }
+          ],
           "content": {
             "options": {
               "A": "-1",
@@ -34,7 +38,8 @@
               "expression": "\\complement_U A",
               "inline": true
             },
-            "中元素个数为"
+            "中元素个数为",
+            { "type": "blank" }
           ],
           "content": {
             "options": {
@@ -50,7 +55,8 @@
           "stem": [
             "若双曲线 C 的虚轴长为实轴长的 ",
             { "type": "math", "expression": "\\sqrt{7}", "inline": true },
-            "倍，则 C 的离心率为"
+            "倍，则 C 的离心率为",
+            { "type": "blank" }
           ],
           "content": {
             "options": {
@@ -82,7 +88,8 @@
               "expression": "y = 2\\tan(x - \\frac{\\pi}{3})",
               "inline": true
             },
-            "的图象的一个对称中心，则 a 的最小值为"
+            "的图象的一个对称中心，则 a 的最小值为",
+            { "type": "blank" }
           ],
           "content": {
             "options": {
@@ -117,7 +124,8 @@
               "type": "math",
               "expression": "f(-\\frac{3}{4}) =",
               "inline": true
-            }
+            },
+            { "type": "blank" }
           ],
           "content": {
             "options": {
@@ -153,7 +161,8 @@
               "src": "https://raw.githubusercontent.com/chinese-exam/gaokao/refs/heads/main/%E6%95%B0%E5%AD%A6/2025/%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%B7/aafedea24f48f4d049baba6e1892beea.svg",
               "width": 900,
               "height": 240
-            }
+            },
+            { "type": "blank" }
           ],
           "content": {
             "options": {
@@ -179,7 +188,8 @@
               "expression": "y = \\sqrt{3}x + 2",
               "inline": true
             },
-            "的距离为1的点有且仅有2个，则 r 的取值范围是"
+            "距离为1的点有且仅有2个，则 r 的取值范围是",
+            { "type": "blank" }
           ],
           "content": {
             "options": {
@@ -199,7 +209,8 @@
               "expression": "2 + \\log_2 x = 3 + \\log_3 y = 5 + \\log_5 z",
               "inline": true
             },
-            "，则 x, y, z 的大小关系不可能是"
+            "，则 x, y, z 的大小关系不可能是",
+            { "type": "blank" }
           ],
           "content": {
             "options": {
